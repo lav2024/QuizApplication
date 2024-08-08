@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.QuizApplication" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">#7B1FA2</item>
+        <item name="colorPrimaryVariant">#FFFFFF</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <item name="colorSecondary">#FFFFFF</item>
+        <item name="colorSecondaryVariant">#FBFBFB</item>
+        <item name="colorOnSecondary">#000000</item>
+
+        <item name="android:statusBarColor" tools:targetApi="l">@color/white</item>
+
+    </style>
+</resources>
